@@ -1,0 +1,9 @@
+extends layout
+
+block content
+	- for(x=0;x< data.length;x++)
+		.item.col-sm-4
+			img(src=data[x].img)
+			h4=data[x].name
+			h5=data[x].price
+			h5=data[x].desc

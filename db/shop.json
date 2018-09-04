@@ -1,0 +1,22 @@
+{
+    "lists": [{
+            "name": "bao cao su",
+            "price": "5 trieu",
+            "img": "http://localhost:3000/img/1.jpg",
+            "desc": "asdhajksdgasjdhgahsjdgasjdgjasdgj"
+
+        },
+        {
+            "name": "durex",
+            "price": "6 trieu",
+            "img": "http://localhost:3000/img/1.jpg",
+            "desc": "asdhajksdgasjdhgahsjdgasjdgjasdgj"
+        },
+        {
+            "name": "durex",
+            "price": "7 trieu",
+            "img": "http://localhost:3000/img/1.jpg",
+            "desc": "asdhajksdgasjdhgahsjdgasjdgjasdgj"
+        }
+    ]
+}
